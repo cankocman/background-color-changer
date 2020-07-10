@@ -14,3 +14,5 @@ btn.addEventListener("click", function () {
 	color.innerHTML = `#${hexCodeString}`;
 	hexCode = [];
 });
+
+// This project was created by Can Koçman on July 9, 2020
